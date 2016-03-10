@@ -1,0 +1,28 @@
+name: Bluenotes
+favicon: null
+layout_spectrum: 0.4858318662736565
+typography_spectrum: 0.4983102094847709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6860070801340044
+  lightness: 0.5016986215487123
+  saturation: 0.640717021888122
+  rhythmicContrast: 0.9534583569038659
+purpose: []
