@@ -1,16 +1,16 @@
 title: Bluenotes
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.9013491
+layout_spectrum: 0.9010025
 favicon: null
 name: Bluenotes
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,13 +29,13 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.5625
-  lightness: 0.875
   saturation: 0.640717021888122
-  rhythmicContrast: 1
   brandColors:
     - '#01154B'
     - '#426691'
     - '#20416E'
     - '#D7FFFF'
     - '#78B5E8'
+  lightness: 0.875
+  rhythmicContrast: 1
 typography_spectrum: 0.4983102094847709
